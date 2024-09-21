@@ -1,6 +1,6 @@
 {
   "name": "evm-side-menu",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/vergaraaa/angular-apx-workspace"
@@ -9,6 +9,7 @@
     "do-not-use",
     "test"
   ],
+  "license": "MIT",
   "author": "Edgar Vergara",
   "bugs": {
     "url": "https://github.com/vergaraaa/angular-apx-workspace/issues"
